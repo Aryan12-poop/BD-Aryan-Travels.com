@@ -1,0 +1,30 @@
+body{
+	background: yellow;
+	text-align: center;
+	color: blue;
+}
+a{
+	border: 5px red outset;
+	margin-left: 320px;
+	margin-right: 290px;
+	font-size: 39px;
+}
+a:hover{
+	opacity: 40%;
+}
+.n{
+	font-size: 45px;
+}
+button{
+	color: red;
+	border: 5px red outset;
+	font-size: 30px;
+	position: fixed;
+}
+button:hover{
+	opacity: 35px;
+}
+.x{
+	background: salmon;
+	position: fixed;
+}
